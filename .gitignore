@@ -1,0 +1,10 @@
+target/
+*.d
+*.o
+*.elf
+*.bin
+*.img
+hdd.dsk
+.gdb_history
+history.txt
+
